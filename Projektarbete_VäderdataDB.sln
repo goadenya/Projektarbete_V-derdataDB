@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projektarbete_VäderdataDB", "Projektarbete_VäderdataDB\Projektarbete_VäderdataDB.csproj", "{A613AFFA-0F05-420B-8A9A-1F1DFAC3BCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A613AFFA-0F05-420B-8A9A-1F1DFAC3BCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A613AFFA-0F05-420B-8A9A-1F1DFAC3BCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A613AFFA-0F05-420B-8A9A-1F1DFAC3BCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A613AFFA-0F05-420B-8A9A-1F1DFAC3BCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589336B6-9682-4B5C-980B-64C6AAE90EE6}
+	EndGlobalSection
+EndGlobal
